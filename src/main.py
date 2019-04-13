@@ -1,5 +1,5 @@
 from elasticsearch import Elasticsearch
-from query_preprocessing import query_preprocessing
+from utils.query_preprocessing import query_preprocessing
 from pprint import pprint
 
 
